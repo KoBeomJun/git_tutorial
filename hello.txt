@@ -1,4 +1,9 @@
 <<<<<<< HEAD
 1 line
+<<<<<<< Up
+dated upstream
 Second line
 >>>>>>> 1859591 (First commit from new branch)
+=======
+3 line
+>>>>>>> Stashed changes
